@@ -1,2 +1,2 @@
 # tonejs
-Experiments with Tone.js
+Experiments with [Tone.js](https://tonejs.github.io/)
